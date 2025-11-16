@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@layer base{
+    body{
+        font-family: "Poppins", sans-serif;
+        color: white;
+        /* padding-left: 20px;
+        padding-right: 20px; */
+    }
+}
